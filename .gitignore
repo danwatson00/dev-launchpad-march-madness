@@ -2,4 +2,8 @@ dist
 lib/node_modules
 lib/.sass-cache
 css
+<<<<<<< HEAD
 lib/package-lock.json
+=======
+lib/package-lock.json
+>>>>>>> master
