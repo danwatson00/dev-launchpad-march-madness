@@ -1,0 +1,266 @@
+{
+    "East" : [
+        {
+            "seed":"1",
+            "school": "Vilanova"
+        },
+        {
+            "seed":"2",
+            "school": "Duke"
+        },
+        {
+            "seed":"3",
+            "school": "Baylor"
+        },
+        {
+            "seed":"4",
+            "school": "Florida"
+        },
+        {
+            "seed":"5",
+            "school": "Virginia"
+        },
+        {
+            "seed":"6",
+            "school": "SMU"
+        },
+        {
+            "seed":"7",
+            "school": "S. Carolina"
+        },
+        {
+            "seed":"8",
+            "school": "Wisconsin"
+        },
+        {
+            "seed":"9",
+            "school": "Va. Tech"
+        },
+        {
+            "seed":"10",
+            "school": "Marquette"
+        },
+        {
+            "seed":"11",
+            "school": "USC"
+        },
+        {
+            "seed":"12",
+            "school": "UNC-Wilm."
+        },
+        {
+            "seed":"13",
+            "school": "ETSU"
+        },
+        {
+            "seed":"14",
+            "school": "New Mexico St."
+        },
+        {
+            "seed":"15",
+            "school": "Troy"
+        },
+        {
+            "seed":"16",
+            "school": "Mt. St. Mary's"
+        }
+    ],
+    "West" : [
+        {
+            "seed":"1",
+            "school": "Gonzaga"
+        },
+        {
+            "seed":"2",
+            "school": "Arizona"
+        },
+        {
+            "seed":"3",
+            "school": "Florida St."
+        },
+        {
+            "seed":"4",
+            "school": "W. Virginia"
+        },
+        {
+            "seed":"5",
+            "school": "Notre Dame"
+        },
+        {
+            "seed":"6",
+            "school": "Maryland"
+        },
+        {
+            "seed":"7",
+            "school": "St. Mary's"
+        },
+        {
+            "seed":"8",
+            "school": "Northwester"
+        },
+        {
+            "seed":"9",
+            "school": "Vanderbilt"
+        },
+        {
+            "seed":"10",
+            "school": "VCU"
+        },
+        {
+            "seed":"11",
+            "school": "Xavier"
+        },
+        {
+            "seed":"12",
+            "school": "Princeton"
+        },
+        {
+            "seed":"13",
+            "school": "Bucknell"
+        },
+        {
+            "seed":"14",
+            "school": "FGCU"
+        },
+        {
+            "seed":"15",
+            "school": "North Dakota"
+        },
+        {
+            "seed":"16",
+            "school": "S. Dak. St."
+        }
+    ],
+    "Midwest" : [
+        {
+            "seed":"1",
+            "school": "Kansas"
+        },
+        {
+            "seed":"2",
+            "school": "Louisville"
+        },
+        {
+            "seed":"3",
+            "school": "Oregon"
+        },
+        {
+            "seed":"4",
+            "school": "Purdue"
+        },
+        {
+            "seed":"5",
+            "school": "Iowa St."
+        },
+        {
+            "seed":"6",
+            "school": "Creighton"
+        },
+        {
+            "seed":"7",
+            "school": "Michigan"
+        },
+        {
+            "seed":"8",
+            "school": "Miami"
+        },
+        {
+            "seed":"9",
+            "school": "Michigan St."
+        },
+        {
+            "seed":"10",
+            "school": "Oklahoma St."
+        },
+        {
+            "seed":"11",
+            "school": "Rhode Island"
+        },
+        {
+            "seed":"12",
+            "school": "Nevada"
+        },
+        {
+            "seed":"13",
+            "school": "Vermont"
+        },
+        {
+            "seed":"14",
+            "school": "Iona"
+        },
+        {
+            "seed":"15",
+            "school": "Jackson State"
+        },
+        {
+            "seed":"16",
+            "school": "UC Davis"
+        }
+    ],
+    "South" : [
+        {
+            "seed":"1",
+            "school": "N. Carolina"
+        },
+        {
+            "seed":"2",
+            "school": "Kentucky"
+        },
+        {
+            "seed":"3",
+            "school": "UCLA"
+        },
+        {
+            "seed":"4",
+            "school": "Butler"
+        },
+        {
+            "seed":"5",
+            "school": "Minnesota"
+        },
+        {
+            "seed":"6",
+            "school": "Cincinnati"
+        },
+        {
+            "seed":"7",
+            "school": "Dayton"
+        },
+        {
+            "seed":"8",
+            "school": "Arkansas"
+        },
+        {
+            "seed":"9",
+            "school": "Seton Hall"
+        },
+        {
+            "seed":"10",
+            "school": "Wichita St."
+        },
+        {
+            "seed":"11",
+            "school": "Kansas St."
+        },
+        {
+            "seed":"12",
+            "school": "Middle Tenn."
+        },
+        {
+            "seed":"13",
+            "school": "Winthrop"
+        },
+        {
+            "seed":"14",
+            "school": "Kent St."
+        },
+        {
+            "seed":"15",
+            "school": "N. Kentucky"
+        },
+        {
+            "seed":"16",
+            "school": "Texas So."
+        }
+    ]
+}
